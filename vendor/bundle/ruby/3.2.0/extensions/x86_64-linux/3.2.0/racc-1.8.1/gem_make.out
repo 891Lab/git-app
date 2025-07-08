@@ -1,0 +1,18 @@
+current directory: /home/hakui/projects/git-app/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+/home/hakui/.rbenv/versions/3.2.0/bin/ruby -I /home/hakui/.rbenv/versions/3.2.0/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /home/hakui/projects/git-app/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250708-803-px2knq sitelibdir\=./.gem.20250708-803-px2knq clean
+
+current directory: /home/hakui/projects/git-app/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250708-803-px2knq sitelibdir\=./.gem.20250708-803-px2knq
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/hakui/projects/git-app/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250708-803-px2knq sitelibdir\=./.gem.20250708-803-px2knq install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20250708-803-px2knq/racc
+
+current directory: /home/hakui/projects/git-app/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250708-803-px2knq sitelibdir\=./.gem.20250708-803-px2knq clean
